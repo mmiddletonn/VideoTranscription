@@ -24,8 +24,8 @@ GOOGLE_CLOUD_STORAGE_BUCKET_NAME=your-bucket-name
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo.git
-    cd your-repo
+    git clone [https://github.com/your-repo.git](https://github.com/mmiddletonn/VideoTranscription.git)
+    cd VideoTranscription
     ```
 
 2. Install the necessary dependencies:
