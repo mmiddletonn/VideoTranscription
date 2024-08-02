@@ -76,7 +76,3 @@ Errors encountered during each step are logged to the console.
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to customize this README as per your project needs!
